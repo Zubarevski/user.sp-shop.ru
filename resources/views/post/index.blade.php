@@ -1,6 +1,5 @@
-@extends('header')
+@extends('template')
 
-
-
-
-@extends('footer')
+@section('content')
+index.blade.php
+@stop
