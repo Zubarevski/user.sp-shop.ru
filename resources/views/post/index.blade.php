@@ -1,1 +1,6 @@
-index.blade.php
+@extends('header')
+
+
+
+
+@extends('footer')
